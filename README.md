@@ -5,13 +5,15 @@
 
 ## Aim: 
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-Experiment: Develop a comprehensive report for the following exercises:
 
-Explain the foundational concepts of Generative AI.
+## Experiment:
+   Develop a comprehensive report for the following exercises:
 
-Focusing on Generative AI architectures. (like transformers).
-Generative AI applications.
-Generative AI impact of scaling in LLMs.
+#### Explain the foundational concepts of Generative AI.
+
+1. Focusing on Generative AI architectures. (like transformers).
+2. Generative AI applications.
+3. Generative AI impact of scaling in LLMs.
 
 ## Algorithm: 
 
